@@ -1,4 +1,8 @@
-# 💳 UPI Transactions Analysis — Power BI Dashboard  
+<p align="center">
+  <img src="https://github.com/eshwar-edam/UPI-Transactions-Power-BI-Dashboard/blob/main/power%20bi%20dashboard.jpeg" alt="UPI Dashboard" width="600"/>
+</p>
+
+## 💳 UPI Transactions Analysis — Power BI Dashboard  
 
 ## 📘 Project Overview  
 This project analyzes **Unified Payments Interface (UPI)** transactions to uncover **behavioral, operational, and financial insights**.  
@@ -83,10 +87,5 @@ It highlights strong skills in:
 
 ---
 
-## 🌟 Connect & Explore  
- 
-💼 **LinkedIn:** [Eshwar Edam](www.linkedin.com/in/eshwaredam)  
-📧 **Contact:** [eshwar.edam26@gamil.com](mailto:eshwar.edam26@gmail.com)  
 
----
 
